@@ -1,5 +1,5 @@
 {
-    'name': 'Custody Clear Request / Petty cash',
+    'name': 'Petty cash / Cahs Reconcile',
     'version': '1.0',
     'summary': """
     This module allows you to request some amount and reconcile with specific expenses account or return as a cash, with dynamic 
