@@ -1,5 +1,5 @@
 {
-    'name': 'Custody Clear Request',
+    'name': 'Custody Clear Request / Petty cash',
     'version': '1.0',
     'summary': """
     This module allows you to request some amount and reconcile with specific expenses account or return as a cash, with dynamic 
@@ -10,7 +10,6 @@
     'support': 'support@softguidetech.com',
     'website': 'https://softguidetech.com',
     'license': 'OPL-1',
-    'currency': 'EUR',
     'data': [
 
         'security/security_view.xml',
