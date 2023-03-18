@@ -10,7 +10,7 @@
     'support': 'support@softguidetech.com',
     'website': 'https://softguidetech.com',
     'license': 'OPL-1',
-    'price': '114',
+    'price': '24',
     'currency': 'EUR',
     'data': [
 
